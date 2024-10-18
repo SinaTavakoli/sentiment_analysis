@@ -15,11 +15,11 @@ The objective of this project is to analyze user comments from Digikala to deter
 
 ## Data
 
-The dataset used in this project is sourced from Digikala user reviews and comments. you can find the processed dataset and additional metadata [here]([Your_Google_Drive_Link](https://drive.google.com/file/d/1UF4Stfy9_xw0Gx9dcgbgcUB_qJUwkuWi/view?usp=drive_link)).
+The dataset used in this project is sourced from Digikala user reviews and comments. you can find the processed dataset and additional metadata [here](https://drive.google.com/file/d/1UF4Stfy9_xw0Gx9dcgbgcUB_qJUwkuWi/view?usp=drive_link).
 
 ## Model
 
-The final model and its checkpoints can be accessed [here]([Your_Google_Drive_Model_Link](https://drive.google.com/file/d/1Vx7VEL-jgYE7I7QFlg21o-1euBoKn0Nc/view?usp=sharing)).
+The final model and its checkpoints can be accessed [here](https://drive.google.com/file/d/1Vx7VEL-jgYE7I7QFlg21o-1euBoKn0Nc/view?usp=sharing).
 
 ## Usage
 
